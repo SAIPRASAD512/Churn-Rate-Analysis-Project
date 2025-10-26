@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Power BI Dashboard](#power-bi-dashboard)
 - [Authors](#authors)
 
 ---
