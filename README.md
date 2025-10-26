@@ -1,5 +1,16 @@
 # Customer Churn Prediction Project
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Repository Structure](#repository-structure)
+- [Features](#features)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Authors](#authors)
+
+---
+
 ## Project Overview
 This project aims to predict customer churn using machine learning and provide actionable insights via a Power BI dashboard. The workflow involves:
 
